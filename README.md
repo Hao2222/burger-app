@@ -1,4 +1,5 @@
 # burger-app
+![](images/eatburger.pgn)
 Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat.
 
 
@@ -12,6 +13,6 @@ The app will store every burger in a database, whether devoured or not.
 
 To run app: node server.js
 
-![](images/eatburger.pgn)
+
 
 
