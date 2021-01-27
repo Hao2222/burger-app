@@ -1,5 +1,5 @@
-CREATE DATABASE burgers_db;
-USE burgers_db;
+CREATE DATABASE heroku_635e6d7eed5b116;
+USE heroku_635e6d7eed5b116;
 
 CREATE TABLE burgers(
     id INT NOT NULL AUTO_INCREMENT,
